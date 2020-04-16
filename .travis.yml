@@ -4,8 +4,8 @@ node_js:
 install:
   - yarn install
 script:
-  - sed -i 's/CLIENT_ID/$clientID/g' blog/.vuepress/config.js
-  - sed -i 's/CLIENT_SECRET/$clientSecret/g' blog/.vuepress/config.js
+  - sed -i 's/CLIENT_ID/'$clientID'/g' blog/.vuepress/config.js
+  - sed -i 's/CLIENT_SECRET/'$clientSecret'/g' blog/.vuepress/config.js
   - yarn build
 deploy:
   provider: pages
