@@ -56,8 +56,8 @@ module.exports = {
       service: 'vssue',
       owner: 'Violin9906',
       repo: 'blog', 
-      clientId: process.env.clientId,
-      clientSecret: process.env.clientSecret,
+      clientId: CLIENT_ID,
+      clientSecret: CLIENT_SECRET,
     }
   }
 }
