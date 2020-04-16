@@ -68,9 +68,6 @@ module.exports = {
     },
     feed: {
       canonical_base:'https://violin9906.github.io/blog/',
-      rss: true,
-      json: true,
-      atom: true
     }
   }
 }
