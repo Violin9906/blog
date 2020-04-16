@@ -62,6 +62,15 @@ module.exports = {
       repo: 'blog', 
       clientId: 'CLIENT_ID',
       clientSecret: 'CLIENT_SECRET',
+    },
+    sitemap: {
+      hostname: 'https://violin9906.github.io/blog/'
+    },
+    feed: {
+      canonical_base:'https://violin9906.github.io/blog/',
+      rss: true,
+      json: true,
+      atom: true
     }
   }
 }
