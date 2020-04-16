@@ -39,7 +39,7 @@ module.exports = {
       ],
       copyright: [
         {
-          text: 'CC-BY-SA 3.0',
+          text: '本页面采用CC-BY-SA 3.0协议发布',
           link: 'http://creativecommons.org/licenses/by-sa/3.0/'
         },
         {
@@ -49,6 +49,10 @@ module.exports = {
         {
           text: 'Copyright © 2020 王若麟',
           link: '/'
+        },
+        {
+          text: 'POWERED BY VUEPRESS',
+          link: 'https://vuepress-theme-blog.ulivz.com/'
         }
       ]
     },
