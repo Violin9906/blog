@@ -52,5 +52,12 @@ module.exports = {
         }
       ]
     },
+    comment: {
+      service: 'vssue',
+      owner: 'Violin9906',
+      repo: 'blog', 
+      clientId: process.env.clientId,
+      clientSecret: process.env.clientSecret,
+    }
   }
 }

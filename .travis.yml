@@ -1,4 +1,7 @@
-anguage: node_js
+language: node_js
+env:
+  - clientID=$clientID
+  - clientSecret=$clientSecret
 node_js:
   - lts/*
 install:
