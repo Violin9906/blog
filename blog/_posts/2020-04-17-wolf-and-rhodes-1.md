@@ -4,7 +4,8 @@ date: 2020-04-17
 author: Violin
 tags:
   - 明日方舟
-  - 短篇习作
+  - 狼与黑心药厂
+  - 习作
 location: Hefei
 ---
 
