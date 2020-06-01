@@ -69,5 +69,12 @@ module.exports = {
     feed: {
       canonical_base:'https://violin9906.github.io/blog/',
     }
+  },
+  markdown: {
+    anchor: { permalink: false },
+    toc: { includeLevel: [1, 2] },
+    extendMarkdown: md => {
+      md.use(require('markdown-it-footnote'))
+    }
   }
 }
