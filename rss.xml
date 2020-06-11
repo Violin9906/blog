@@ -4,7 +4,7 @@
         <title>Violin&apos;s Blog</title>
         <link>https://violin9906.github.io/blog/</link>
         <description></description>
-        <lastBuildDate>Wed, 10 Jun 2020 02:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2020 02:57:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <item>
@@ -51,6 +51,17 @@
 鲁珀族的听力向来十分敏锐，楼下持续不断地传来的电钻声不停敲击着每个人的耳膜，这噪声对鲁珀族出身的德克萨斯的伤害想必更甚。
 
 “听说是可露希尔缠着博士买了套餐厅的家具，想把楼下的工作间拆了改造成餐厅。”坐在德克萨斯 ...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[叙拉古往事（1）]]></title>
+            <link>https://violin9906.github.io/blog/2020/06/10/syracuse-stories-1/</link>
+            <guid>https://violin9906.github.io/blog/2020/06/10/syracuse-stories-1/</guid>
+            <pubDate>Wed, 10 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[这里是泰拉大陆的一片无名戈壁。和遍布这片荒芜大陆的许多戈壁一样，这里寸草不生，细碎的源石结晶随处可见，忠实地记录着每一次天灾对这里的侵蚀。
+
+天灾。不知从何时起，这种起因不明的自然灾害就开始袭击着这片大陆。它的发生毫无规律可言，也难以精确预测。天灾过后，唯一留下的只有神秘的、蕴含巨大能量的源石结晶。人们想尽办法了解天灾的真相，但一批又一批的探险者和科学家走入天灾核心，却再也没有出来。
+
+“我得 ...]]></description>
         </item>
     </channel>
 </rss>
