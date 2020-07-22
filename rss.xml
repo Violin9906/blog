@@ -4,9 +4,20 @@
         <title>Violin&apos;s Blog</title>
         <link>https://violin9906.github.io/blog/</link>
         <description></description>
-        <lastBuildDate>Wed, 22 Jul 2020 06:30:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2020 09:11:47 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <item>
+            <title><![CDATA[Laravel学习笔记|在Cloud Studio中搭建开发环境]]></title>
+            <link>https://violin9906.github.io/blog/2018/12/21/laravel-notes-1/</link>
+            <guid>https://violin9906.github.io/blog/2018/12/21/laravel-notes-1/</guid>
+            <pubDate>Fri, 21 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[此前一直使用LAMP环境，对nginx没有多少了解。这次初次LNMP环境下搭建laravel开发环境，踩了不少坑，集齐了502，500，404，403，200五种状态码（滑稽），特此记录，供以后查阅。
+1.在Cloud Studio中建立工作空间
+Clo ...]]></description>
+            <enclosure url="https://img-blog.csdnimg.cn/20181221131616731.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0OTIwNDE1,size_16,color_FFFFFF,t_70">
+            </enclosure>
+        </item>
         <item>
             <title><![CDATA[业余天文学入门（1）｜ 从仰望星空开始]]></title>
             <link>https://violin9906.github.io/blog/2019/03/23/astronomy-abc-1/</link>
@@ -63,6 +74,58 @@
             <pubDate>Thu, 11 Jul 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[虽然在环境比较好的地方，肉眼就可以看到壮丽的星空，但要想看到更多的有趣天体，还是要借助望远镜的buff。望远镜的作用不仅仅是简单的放大，更重要的是收集更多的光线，让黯淡的天体看起来明亮。这也就是为什么天文望远镜更多是强调口径而非放大倍数的原因之一——更大的口径意味着更多的光线。（还有其他的一些原因，比如口径越大所成像的清晰度越高，这涉及到波动光学的知识，感兴趣的可以去了解一下“瑞利判据”。口径也决 ...]]></description>
             <enclosure url="https://www.zhihu.com/equation?tex=6.5%5E%7B%5Ccirc%7D">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[业余天文学入门（六）| RASC“宇宙概览”计划]]></title>
+            <link>https://violin9906.github.io/blog/2019/08/16/astronomy-abc-6/</link>
+            <guid>https://violin9906.github.io/blog/2019/08/16/astronomy-abc-6/</guid>
+            <pubDate>Fri, 16 Aug 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[买了望远镜却不知道该看什么？看了一两次月亮以后望远镜就被扔在角落里吃灰了？事实上，在任何一个夜晚，肉眼可见的2000余颗恒星中，有1900颗看上去都相当无趣。你必须知道，在哪里才能看到你想看的东西。如果你还不知道你的小双筒可以看什么，那这份“宇宙概览”正适合你。
+RASC(Royal Astronomical Society of Canada)，即[加拿大皇家天文学会](https:/ ...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在windows系统中搭建基于VSCode的C开发环境]]></title>
+            <link>https://violin9906.github.io/blog/2019/11/27/config-vscode-for-c/</link>
+            <guid>https://violin9906.github.io/blog/2019/11/27/config-vscode-for-c/</guid>
+            <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Visual Studio Code是Microsoft推出的一款可高度定制的代码编辑器，具有无与伦比的颜值和强大的可扩展性。但是对于C语言初学者来说，VSCode不是“开箱即用”的，并且全英文的界面也不是那么友好，这导致Dev-C++甚至VC++6.0在今天仍然有不小的市场。本文将带各位自己搭建一个C语言开发环境，告别祖传Dev-C++。
+第一步：安装MinGW
+MinGW是G ...]]></description>
+            <enclosure url="https://pic2.zhimg.com/80/v2-b4e166406dd3098553b5d4d44f7fef3e_720w.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[业余天文学入门（七）| 日期和时间]]></title>
+            <link>https://violin9906.github.io/blog/2019/11/29/astronomy-abc-7/</link>
+            <guid>https://violin9906.github.io/blog/2019/11/29/astronomy-abc-7/</guid>
+            <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[太和殿日晷
+> 封面图：太和殿丹陛的日晷，来自wikimedia。日晷是古代利用晷针在晷面上的投影确定时刻的装置，所得到的时间是地方真太阳时。
+天文学中，主要的时间尺度是根据地球的自转（日）和公转（年）来定义的。然而，由于地球的自转和公转并非标准的匀 ...]]></description>
+            <enclosure url="https://pic1.zhimg.com/v2-dc85916f83f68c79101de2590d10fea2_r.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[天文冷知识：梅西耶和他的星表]]></title>
+            <link>https://violin9906.github.io/blog/2020/05/06/messier-objects/</link>
+            <guid>https://violin9906.github.io/blog/2020/05/06/messier-objects/</guid>
+            <pubDate>Wed, 06 May 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Deadline是第二生产力，大佬如梅西耶也不例外
+注：本文部分内容来自网络或传言，其真实性存疑，仅供娱乐
+查尔斯·梅西耶（Charles Messier，1730—1817）是法国天文学家。他的成就在于给星云、星团和星系编上了号码，并制作了著名的“梅西耶星团星云列表”，即我们熟知的深空天体M列表。可以说在业余天文爱好者中，使用最多的深空天体星表就是梅西耶表了。每年的春分前后， ...]]></description>
+            <enclosure url="https://picb.zhimg.com/80/v2-95698baa38f918c7a7e9b58581a86f32_720w.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[基于Docker搭建Anaconda环境]]></title>
+            <link>https://violin9906.github.io/blog/2020/05/09/build-anaconda-on-docker/</link>
+            <guid>https://violin9906.github.io/blog/2020/05/09/build-anaconda-on-docker/</guid>
+            <pubDate>Sat, 09 May 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[最近在写人工智能的大作业，顺手搭一个anaconda的环境出来，顺便记录一下过程，方便没有docker基础的同学参考。
+STEP 0x00 安装Docker
+docker是一个开源的应用容器引擎，你可以简单地把它理解为虚拟机（其实和虚拟机还是有区别的）。不管你的电脑是windows，linux还是mac，只要使用相同的docker镜像运行一个容器，就可以在容器中运行你的程序，不必 ...]]></description>
+            <enclosure url="https://pic4.zhimg.com/80/v2-a57740f2a4036ac508f61b9db49cf51a_720w.jpg">
             </enclosure>
         </item>
     </channel>
