@@ -76,5 +76,16 @@ module.exports = {
     extendMarkdown: md => {
       md.use(require('markdown-it-footnote'))
     }
-  }
+  },
+  plugins: [
+    [
+      'vuepress-plugin-mathjax',
+      {
+        target: 'svg',
+        macros: {
+          '*': '\\times',
+        }
+      }
+    ]
+  ]
 }
