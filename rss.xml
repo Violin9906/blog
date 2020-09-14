@@ -4,7 +4,7 @@
         <title>Violin&apos;s Blog</title>
         <link>https://violin9906.github.io/blog/</link>
         <description></description>
-        <lastBuildDate>Sat, 08 Aug 2020 03:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2020 06:41:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <item>
@@ -174,6 +174,15 @@ docker是一个开源的应用容器引擎，你可以简单地把它理解为�
 天灾。不知从何时起，这种起因不明的自然灾害就开始袭击着这片大陆。它的发生毫无规律可言，也难以精确预测。天灾过后，唯一留下的只有神秘的、蕴含巨大能量的源石结晶。人们想尽办法了解天灾的真相，但一批又一批的探险者和科学家走入天灾核心，却再也没有出来。
 
 “我得 ...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[移植micropython到stm32（1）]]></title>
+            <link>https://violin9906.github.io/blog/2020/09/14/micropython-stm32-1/</link>
+            <guid>https://violin9906.github.io/blog/2020/09/14/micropython-stm32-1/</guid>
+            <pubDate>Mon, 14 Sep 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Micropython是一个将Python 3.x移植到嵌入式系统的项目，官方网站：micropython.org，代码仓库：micropython/micropython。本文尝试将其移植到自制的STM32开发板上。
+
+我所使用的是基于ST ...]]></description>
         </item>
     </channel>
 </rss>
