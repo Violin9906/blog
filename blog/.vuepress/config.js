@@ -39,7 +39,7 @@ module.exports = {
       ],
       copyright: [
         {
-          text: '本页面采用CC-BY-SA 3.0协议发布',
+          text: '本页面采用CC BY-SA 3.0协议发布',
           link: 'http://creativecommons.org/licenses/by-sa/3.0/'
         },
         {
