@@ -13,10 +13,12 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Install and Build 🔧
+      - name: Initialize Node.js ⚙️
         uses: actions/setup-node@v1
         with:
           node-version: '14'
+        
+      - name: Install and Build 🔧
         run: |
           yarn install
           sed -i 's/CLIENT_ID/'${{ secrets.CLIENT_ID }}'/g' blog/.vuepress/config.js
