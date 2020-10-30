@@ -59,7 +59,7 @@ module.exports = {
     comment: {
       service: 'vssue',
       owner: 'Violin9906',
-      repo: 'blog', 
+      repo: 'blog',
       clientId: 'CLIENT_ID',
       clientSecret: 'CLIENT_SECRET',
     },
@@ -67,7 +67,7 @@ module.exports = {
       hostname: 'https://violin9906.github.io/blog/'
     },
     feed: {
-      canonical_base:'https://violin9906.github.io/blog/',
+      canonical_base: 'https://violin9906.github.io/blog/',
     }
   },
   markdown: {
@@ -78,6 +78,7 @@ module.exports = {
     }
   },
   plugins: [
+    /*
     [
       'vuepress-plugin-mathjax',
       {
@@ -87,5 +88,10 @@ module.exports = {
         }
       }
     ]
+    */
+    '@maginapp/vuepress-plugin-katex',
+    {
+      delimiters: 'dollars'
+    }
   ]
 }

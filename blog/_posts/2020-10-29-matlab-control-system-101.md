@@ -51,28 +51,10 @@ Matlab可以使用下列运算符：
 - 除法$A/B=AB^{-1}$，左除$A\backslash B=A^{-1}B$
 
 - 逐元素计算是指两个相同大小的矩阵，各对应位置的元素分别进行相应计算。例如：
-  $$
-  \left[
-  \begin{matrix}
-  1 & 2 \\
-  3 & 4 
-  \end{matrix}
-  \right]
-  .*
-  \left[
-  \begin{matrix}
-  1 & 2 \\
-  3 & 4 
-  \end{matrix}
-  \right]
-  =
-  \left[
-  \begin{matrix}
-  1 & 4 \\
-  9 & 16 
-  \end{matrix}
-  \right]
-  $$
+  
+$$
+\left[\begin{matrix} 1 & 2 \\ 3 & 4 \end{matrix}\right].*\left[ \begin{matrix} 1 & 2 \\ 3 & 4 \end{matrix}\right]=\left[\begin{matrix} 1 & 4 \\ 9 & 16 \end{matrix} \right]
+$$
 
 - 对于实数矩阵，复共轭转置和非共轭转置相同。
 
