@@ -4,7 +4,7 @@
         <title>Violin&apos;s Blog</title>
         <link>https://violin9906.github.io/blog/</link>
         <description></description>
-        <lastBuildDate>Thu, 08 Apr 2021 10:59:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 14:05:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <item>
@@ -103,6 +103,17 @@ MathWorks帮助中心：桌面基础知识
 ![desktop](https://ww2.mathworks.cn/help/matlab/learn_mat ...]]></description>
             <enclosure url="https://ww2.mathworks.cn/help/matlab/learn_matlab/desktop_zh_CN.png">
             </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[嵌入式Debug日志（1）]]></title>
+            <link>https://violin9906.github.io/blog/2021/04/24/mcu-debug-tracelog-1/</link>
+            <guid>https://violin9906.github.io/blog/2021/04/24/mcu-debug-tracelog-1/</guid>
+            <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[趁着腰伤赋闲在家，把前几天调试STM32的几个BUG给记录一下吧。
+
+0x01 薛定谔的启动模式
+
+在设计FOC驱动模块的时候，我把BLDC的HALL传感器引线和STM32的TIM4 CH1~3连在一起了。本来这个事情很正常，可是问题是我用的是STM32G474CEU6这款MCU，它的TIM4有一个通道和BOOT0是复用的。这个问题本来我没在意，可是当我开始调试的时候，发现有时候复位可以正常 ...]]></description>
         </item>
     </channel>
 </rss>
