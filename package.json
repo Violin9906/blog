@@ -6,8 +6,7 @@
   "devDependencies": {
     "@maginapp/vuepress-plugin-katex": "^1.0.7",
     "@vuepress/theme-blog": "^2.2.0",
-    "vuepress": "^1.4.1",
-    "vuepress-plugin-mathjax": "^1.2.8"
+    "vuepress": "^1.4.1"
   },
   "dependencies": {
     "markdown-it-footnote": "^3.0.2"
