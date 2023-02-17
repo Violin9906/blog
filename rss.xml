@@ -4,7 +4,7 @@
         <title>Violin&apos;s Blog</title>
         <link>https://violin9906.github.io/blog/</link>
         <description></description>
-        <lastBuildDate>Tue, 14 Feb 2023 15:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 03:49:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <item>
@@ -120,7 +120,8 @@ MathWorks帮助中心：桌面基础知识
             <link>https://violin9906.github.io/blog/2023/02/14/asp-notes-1/</link>
             <guid>https://violin9906.github.io/blog/2023/02/14/asp-notes-1/</guid>
             <pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[一个一阶逻辑的语句，经过Skolem化后可以等价转化为子句：
+            <description><![CDATA[析取逻辑与传统逻辑程序
+一个一阶逻辑的语句，经过Skolem化后可以等价转化为子句：
 $$
 \forall{x1}\dots\forall{xs}(L1\lor\cdots\lor Lm)
 $$
@@ -128,7 +129,7 @@ $$
 $$
 A\larr B \Leftrightarrow A\lor\lnot B
 $$
-那么对于刚好含有一个正文字的子句（确定子句），就可以写成以条件 ...]]></description>
+那么对于刚好含有一个正文字的子 ...]]></description>
         </item>
     </channel>
 </rss>
