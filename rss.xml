@@ -4,7 +4,7 @@
         <title>Violin&apos;s Blog</title>
         <link>https://violin9906.github.io/blog/</link>
         <description></description>
-        <lastBuildDate>Fri, 17 Feb 2023 03:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 10:18:43 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <item>
@@ -143,6 +143,19 @@ $$
 s1 \prec1 \alpha\;\{ \mathbf{t}1:\mathbf{L}1;\dots;\mathbf{t}n:\mathbf{L}n\} \prec2 s2
 $$
 其中，$\mathbf{t_ ...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[回答集编程笔记（3）]]></title>
+            <link>https://violin9906.github.io/blog/2023/02/17/asp-notes-3/</link>
+            <guid>https://violin9906.github.io/blog/2023/02/17/asp-notes-3/</guid>
+            <pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[ASP遵循“失败即否定（negation as failure, NAF）”原则，即尝试推导某个原子失败时，就否定该原子。
+NAF否定（默认否定）
+NAF否定是ASP的默认否定，通过在Atom前加not实现。NAF否定的含义是，$\mathrm{not}\; A$为真，当且仅当无法推出$A$为真。
+`prolog
+a :- not b.
+`
+这个程序有 ...]]></description>
         </item>
     </channel>
 </rss>
