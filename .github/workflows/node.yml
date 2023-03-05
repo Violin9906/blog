@@ -29,8 +29,6 @@ jobs:
           sed -i 's/href="\/rss.xml"/href="\/blog\/rss.xml"/g' blog/.vuepress/dist/index.html
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@3.7.1
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          BRANCH: gh-pages
           FOLDER: blog/.vuepress/dist
-          CLEAN: true
